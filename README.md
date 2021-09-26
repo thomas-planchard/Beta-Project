@@ -21,7 +21,7 @@ Draws are impossible in Hex due to the topology of the game board.
 
 The project has to be implemented in C# .Net following TDD rules. 
 
-Both tests and concrete implementation will be taken into account for the final notes. Methods and classes has to follow best practice rules and be easy to understand and meaningful.
+Both tests and concrete implementation will be taken into account for the final notes. Methods and Classes have to follow best practice rules and be easy to understand and meaningful.
 
 The framework used for the graphical interface is free. You can use WPF, Winform or web interface or any graphical interface technology within C#.net Framework.
 
