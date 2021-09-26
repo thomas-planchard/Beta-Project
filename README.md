@@ -1,6 +1,6 @@
 # Beta-Project : Implement a Hex Board Game
 
-![Hex Board Game](https://en.wikipedia.org/wiki/Hex_(board_game)#/media/File:Hex-board-11x11-(2).jpg)
+![Hex Board Game](https://upload.wikimedia.org/wikipedia/commons/3/38/Hex-board-11x11-%282%29.jpg)
 
 Your objective is to implement in C# .Net a fully functional Hex Game that allows to different players to play the game, save the results and tells if a player has won.
 The board size has to be configurable.
