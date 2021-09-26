@@ -29,6 +29,6 @@ The project has to be in .Net Core 5.
 
 # Project follow up :
 
-Every team has to create a specific branch under this repository named beta-project-gn where n is the group number (beta-project-g1, Beta-project-g2 etc)
+Every team has to create a specific branch under this repository named beta-project-gn where n is the group number (beta-project-g1, Beta-project-g2 etc).
 Commits have to be done on a regular base and be done by all group participants.
 
